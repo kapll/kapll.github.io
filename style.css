@@ -1,15 +1,9 @@
-* { margin:0; padding:0; box-sizing:border-box; }
-
-html 
-{
+html, body, div, iframe {
  overflow: hidden;
-}
-
-html, body, div, iframe 
-{
  margin: 0; 
  padding: 0; 
- height: 100vh;
- width: 100vw;
+ height: 100%;
+ width: 100%;
  border: none;
+ box-sizing:border-box;
 }
